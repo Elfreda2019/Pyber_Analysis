@@ -22,8 +22,12 @@ From the analysis:
 
 Figure 1 and Figure 2 gives a clear view of the results explained above.
 
+
+Figure 1, multiple line chart of the of the various city types showing the sum of fares at various lines.
 ![Figure 1](https://github.com/Elfreda2019/Pyber_Analysis/blob/main/PyBer_summary_dataframe.png)
 
+
+Figure 2, Data summary of Pyber ride sharing data for the various city types
 ![Figure 2](https://github.com/Elfreda2019/Pyber_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
 ## Summary
