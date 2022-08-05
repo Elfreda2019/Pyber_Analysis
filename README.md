@@ -20,6 +20,9 @@ From the analysis:
 
 * Similarly the average fare per driver in the rural cities were almost $39 more than that of the urban areas and $16 more than in the suburban cities.
 
+Figure 1 and Figure 2 gives a clear view of the results explained above.
+
+![Figure 1](
 
 ## Summary
 
